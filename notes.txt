@@ -1,0 +1,33 @@
+goal: increase number of business listed on yelp. why? more businesses create an incentive for average consumers to use yelp as their primary option for viewing businesses. also more businesses create more oppurtunities to sell ad optimization packages to them. In a nutshell; 
+1. more businesses = more businesses that will opt for search/ad optimzation packages = more $ 
+AND
+2.more businesses listed = more users looking for business information = more social networking and user interaction = more oppurtunities for catered ads = more $
+
+so what does the data say?
+
+1st: let's explore some of the businesses we already have, 
+WHICH CATEGORIES ARE MOST USED
+Restaurants                      32.044726
+Shopping                         13.599723
+Food                             12.204213
+Beauty & Spas                     6.492156
+Automotive                        4.767271
+Mexican                           4.645922
+Active Life                       4.264540
+Nightlife                         4.186530
+Health & Medical                  4.056514
+
+FOR CLOSED...
+Restaurants                         6.986218
+Food                                1.802895
+Nightlife                           1.360839
+Bars                                1.118142
+
+WHICH CATEGORIES GENERATE LARGE REVIEW COUNT
+
+pie chart of all categories that are open
+
+pie chart of all categories that are closed
+
+
+would like to know why businesses close down? how can yelp 
